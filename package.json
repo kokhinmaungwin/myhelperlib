@@ -23,6 +23,6 @@
   "author": "Khin Maung Win",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.9.3"
   }
 }
