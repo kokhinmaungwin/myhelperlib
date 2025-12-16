@@ -21,7 +21,7 @@ A lightweight helper library written in TypeScript for everyday web development 
 
 CDN (compiled JS)
 ```html
-<script src="https://cdn.jsdelivr.net/gh/kokhinmaungwin/myhelperlib@v1.0.0/my-helper-lib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kokhinmaungwin/myhelperlib@v1.0.0/dist/my-helper-lib.js"></script>
 ```
 Local / Module
 ```ts
