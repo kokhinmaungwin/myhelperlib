@@ -1,0 +1,28 @@
+{
+  "name": "myhelperlib",
+  "version": "1.0.0",
+  "description": "Simple helper library with TypeScript support for all websites.",
+  "main": "dist/my-helper-lib.js",
+  "types": "dist/my-helper-lib.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kokhinmaungwin/myhelperlib.git"
+  },
+  "keywords": [
+    "typescript",
+    "library",
+    "webutils",
+    "helper",
+    "javascript"
+  ],
+  "author": "Khin Maung Win",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
