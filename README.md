@@ -19,7 +19,7 @@ A lightweight helper library written in TypeScript for everyday web development 
 
 ## 📦 Installation
 
-### CDN (compiled JS)
+CDN (compiled JS)
 ```html
 <script src="https://cdn.jsdelivr.net/gh/kokhinmaungwin/myhelperlib@v1.0.0/my-helper-lib.js"></script>
 ```
