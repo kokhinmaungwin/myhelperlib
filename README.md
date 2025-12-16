@@ -32,50 +32,50 @@ import MyHelperLib from "./my-helper-lib";
 
 ## 🚀 Usage
 
-### DOM Selectors
+DOM Selectors
 ```ts
 const el = MyHelperLib.$("#app");
 const items = MyHelperLib.$$(".item");
 ```
-### Events
+Events
 ```ts
 MyHelperLib.on(window, "resize", () => {
   console.log("Window resized");
 });
 ```
-### Cookies
+Cookies
 ```ts
 MyHelperLib.setCookie("theme", "dark", 7);
 const theme = MyHelperLib.getCookie("theme");
 MyHelperLib.deleteCookie("theme");
 ```
-### localStorage
+localStorage
 ```ts
 MyHelperLib.lsSet("user", { name: "Bro" });
 const user = MyHelperLib.lsGet<{ name: string }>("user");
 MyHelperLib.lsRemove("user");
 ```
-### Debounce
+Debounce
 ```ts
 const onResize = MyHelperLib.debounce(() => {
   console.log("Resized");
 }, 300);
 ```
-### Throttle
+Throttle
 ```ts
 const onScroll = MyHelperLib.throttle(() => {
   console.log("Scrolling");
 }, 200);
 ```
-### Fetch JSON
+Fetch JSON
 ```ts
 const data = await MyHelperLib.fetchGet("https://api.example.com/data");
 ```
-### Date Formatting
+Date Formatting
 ```ts
 const formatted = MyHelperLib.formatDate(new Date(), "en-US");
 ```
-### URL Parameter
+URL Parameter
 ```ts
 const id = MyHelperLib.getUrlParam("id");
 ```
