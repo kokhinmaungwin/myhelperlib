@@ -1,9 +1,21 @@
 # Changelog
 
+## v1.0.3 - 2025-12-17
+
+### Fixed
+- Rebuilt dist files
+- Fixed version comment mismatch in compiled JS
+- CDN consistency improvements
+
 ## v1.0.2 - 2025-12-17
 
 ### Misc
 - Version updated to v1.0.2.
+
+## v1.0.1 - 2025-12-17
+
+### Misc
+- Version updated to v1.0.1.
 
 ## v1.0.0 - 2025-12-16
 
