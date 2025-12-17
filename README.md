@@ -30,7 +30,7 @@ import MyHelperLib from "./my-helper-lib";
 
 ---
 
-## Versioning
+## 📢 Versioning
 
 Source code version: 1.0.2
 
@@ -103,11 +103,5 @@ This library is written in TypeScript and provides full type safety and IntelliS
 
 MIT License © 2025 Khin Maung Win
 
-
----
-
-## ❤️ Author
-
-Created and maintained by Khin Maung Win
 
 ---
