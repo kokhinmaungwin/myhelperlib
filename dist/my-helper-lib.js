@@ -1,7 +1,7 @@
 /**
- * @version 1.0.2
- * @author Khin Maung Win
- * @license MIT
+ * MyHelperLib v1.0.2
+ * Author: Khin Maung Win
+ * License: MIT
  * Simple helper library with TypeScript support
  */
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
