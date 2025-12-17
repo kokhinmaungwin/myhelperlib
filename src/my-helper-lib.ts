@@ -1,5 +1,5 @@
 /**
- * MyHelperLib v1.0.0
+ * MyHelperLib v1.0.2
  * Author: Khin Maung Win
  * License: MIT
  * Simple helper library with TypeScript support
